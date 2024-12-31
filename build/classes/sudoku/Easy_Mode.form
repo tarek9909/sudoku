@@ -1,0 +1,624 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Form version="1.3" maxVersion="1.9" type="org.netbeans.modules.form.forminfo.JFrameFormInfo">
+  <Properties>
+    <Property name="defaultCloseOperation" type="int" value="3"/>
+  </Properties>
+  <SyntheticProperties>
+    <SyntheticProperty name="formSizePolicy" type="int" value="1"/>
+    <SyntheticProperty name="generateCenter" type="boolean" value="false"/>
+  </SyntheticProperties>
+  <AuxValues>
+    <AuxValue name="FormSettings_autoResourcing" type="java.lang.Integer" value="0"/>
+    <AuxValue name="FormSettings_autoSetComponentName" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_generateFQN" type="java.lang.Boolean" value="true"/>
+    <AuxValue name="FormSettings_generateMnemonicsCode" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_i18nAutoMode" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_layoutCodeTarget" type="java.lang.Integer" value="1"/>
+    <AuxValue name="FormSettings_listenerGenerationStyle" type="java.lang.Integer" value="0"/>
+    <AuxValue name="FormSettings_variablesLocal" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_variablesModifier" type="java.lang.Integer" value="2"/>
+    <AuxValue name="designerSize" type="java.awt.Dimension" value="-84,-19,0,5,115,114,0,18,106,97,118,97,46,97,119,116,46,68,105,109,101,110,115,105,111,110,65,-114,-39,-41,-84,95,68,20,2,0,2,73,0,6,104,101,105,103,104,116,73,0,5,119,105,100,116,104,120,112,0,0,2,-68,0,0,3,-124"/>
+  </AuxValues>
+
+  <Layout class="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout">
+    <Property name="useNullLayout" type="boolean" value="false"/>
+  </Layout>
+  <SubComponents>
+    <Container class="javax.swing.JPanel" name="jPanel1">
+      <Properties>
+        <Property name="background" type="java.awt.Color" editor="org.netbeans.modules.form.RADConnectionPropertyEditor">
+          <Connection code="new java.awt.Color(0, 0, 0,10)" type="code"/>
+        </Property>
+      </Properties>
+      <Constraints>
+        <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout" value="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout$AbsoluteConstraintsDescription">
+          <AbsoluteConstraints x="20" y="30" width="660" height="-1"/>
+        </Constraint>
+      </Constraints>
+
+      <Layout>
+        <DimensionLayout dim="0">
+          <Group type="103" groupAlignment="0" attributes="0">
+              <Group type="102" attributes="0">
+                  <EmptySpace min="-2" pref="14" max="-2" attributes="0"/>
+                  <Group type="103" groupAlignment="1" attributes="0">
+                      <Component id="input_73" min="-2" pref="65" max="-2" attributes="0"/>
+                      <Component id="input_10" min="-2" pref="65" max="-2" attributes="0"/>
+                      <Component id="input_1" min="-2" pref="65" max="-2" attributes="0"/>
+                      <Component id="input_19" alignment="1" min="-2" pref="65" max="-2" attributes="0"/>
+                      <Component id="input_28" min="-2" pref="65" max="-2" attributes="0"/>
+                      <Component id="input_37" min="-2" pref="65" max="-2" attributes="0"/>
+                      <Component id="input_46" min="-2" pref="65" max="-2" attributes="0"/>
+                      <Component id="input_55" min="-2" pref="65" max="-2" attributes="0"/>
+                      <Component id="input_64" min="-2" pref="65" max="-2" attributes="0"/>
+                  </Group>
+                  <EmptySpace max="-2" attributes="0"/>
+                  <Group type="103" groupAlignment="0" attributes="0">
+                      <Group type="102" attributes="0">
+                          <Group type="103" groupAlignment="0" max="-2" attributes="0">
+                              <Group type="102" attributes="0">
+                                  <Component id="input_11" min="-2" pref="65" max="-2" attributes="0"/>
+                                  <EmptySpace max="-2" attributes="0"/>
+                                  <Component id="input_12" min="-2" pref="65" max="-2" attributes="0"/>
+                                  <EmptySpace max="-2" attributes="0"/>
+                                  <Component id="input_13" min="-2" pref="65" max="-2" attributes="0"/>
+                                  <EmptySpace max="-2" attributes="0"/>
+                                  <Component id="input_14" min="-2" pref="65" max="-2" attributes="0"/>
+                                  <EmptySpace max="-2" attributes="0"/>
+                                  <Component id="input_15" min="-2" pref="65" max="-2" attributes="0"/>
+                                  <EmptySpace max="-2" attributes="0"/>
+                                  <Component id="input_16" min="-2" pref="65" max="-2" attributes="0"/>
+                                  <EmptySpace max="-2" attributes="0"/>
+                                  <Component id="input_17" min="-2" pref="65" max="-2" attributes="0"/>
+                              </Group>
+                              <Group type="102" attributes="0">
+                                  <Component id="input_20" min="-2" pref="65" max="-2" attributes="0"/>
+                                  <EmptySpace max="-2" attributes="0"/>
+                                  <Component id="input_21" min="-2" pref="65" max="-2" attributes="0"/>
+                                  <EmptySpace max="-2" attributes="0"/>
+                                  <Component id="input_22" min="-2" pref="65" max="-2" attributes="0"/>
+                                  <EmptySpace max="-2" attributes="0"/>
+                                  <Component id="input_23" min="-2" pref="65" max="-2" attributes="0"/>
+                                  <EmptySpace max="-2" attributes="0"/>
+                                  <Component id="input_24" min="-2" pref="65" max="-2" attributes="0"/>
+                                  <EmptySpace max="-2" attributes="0"/>
+                                  <Component id="input_25" min="-2" pref="65" max="-2" attributes="0"/>
+                                  <EmptySpace max="32767" attributes="0"/>
+                                  <Component id="input_26" min="-2" pref="65" max="-2" attributes="0"/>
+                              </Group>
+                              <Group type="102" alignment="0" attributes="0">
+                                  <Component id="input_2" min="-2" pref="65" max="-2" attributes="0"/>
+                                  <EmptySpace max="-2" attributes="0"/>
+                                  <Component id="input_3" min="-2" pref="65" max="-2" attributes="0"/>
+                                  <EmptySpace max="-2" attributes="0"/>
+                                  <Component id="input_4" min="-2" pref="65" max="-2" attributes="0"/>
+                                  <EmptySpace max="-2" attributes="0"/>
+                                  <Component id="input_5" min="-2" pref="65" max="-2" attributes="0"/>
+                                  <EmptySpace max="-2" attributes="0"/>
+                                  <Component id="input_6" min="-2" pref="65" max="-2" attributes="0"/>
+                                  <EmptySpace max="-2" attributes="0"/>
+                                  <Component id="input_7" min="-2" pref="65" max="-2" attributes="0"/>
+                                  <EmptySpace max="-2" attributes="0"/>
+                                  <Component id="input_8" min="-2" pref="65" max="-2" attributes="0"/>
+                              </Group>
+                              <Group type="102" attributes="0">
+                                  <Component id="input_29" min="-2" pref="65" max="-2" attributes="0"/>
+                                  <EmptySpace max="-2" attributes="0"/>
+                                  <Component id="input_30" min="-2" pref="65" max="-2" attributes="0"/>
+                                  <EmptySpace max="-2" attributes="0"/>
+                                  <Component id="input_31" min="-2" pref="65" max="-2" attributes="0"/>
+                                  <EmptySpace max="-2" attributes="0"/>
+                                  <Component id="input_32" min="-2" pref="65" max="-2" attributes="0"/>
+                                  <EmptySpace max="-2" attributes="0"/>
+                                  <Component id="input_33" min="-2" pref="65" max="-2" attributes="0"/>
+                                  <EmptySpace max="32767" attributes="0"/>
+                                  <Component id="input_34" min="-2" pref="65" max="-2" attributes="0"/>
+                                  <EmptySpace max="-2" attributes="0"/>
+                                  <Component id="input_35" min="-2" pref="65" max="-2" attributes="0"/>
+                              </Group>
+                              <Group type="102" alignment="0" attributes="0">
+                                  <Component id="input_65" min="-2" pref="65" max="-2" attributes="0"/>
+                                  <EmptySpace max="-2" attributes="0"/>
+                                  <Component id="input_66" min="-2" pref="65" max="-2" attributes="0"/>
+                                  <EmptySpace max="-2" attributes="0"/>
+                                  <Component id="input_67" min="-2" pref="65" max="-2" attributes="0"/>
+                                  <EmptySpace max="-2" attributes="0"/>
+                                  <Component id="input_68" min="-2" pref="65" max="-2" attributes="0"/>
+                                  <EmptySpace max="-2" attributes="0"/>
+                                  <Component id="input_69" min="-2" pref="65" max="-2" attributes="0"/>
+                                  <EmptySpace max="32767" attributes="0"/>
+                                  <Component id="input_70" min="-2" pref="65" max="-2" attributes="0"/>
+                                  <EmptySpace max="-2" attributes="0"/>
+                                  <Component id="input_71" min="-2" pref="65" max="-2" attributes="0"/>
+                              </Group>
+                              <Group type="102" attributes="0">
+                                  <Component id="input_56" min="-2" pref="65" max="-2" attributes="0"/>
+                                  <EmptySpace max="-2" attributes="0"/>
+                                  <Component id="input_57" min="-2" pref="65" max="-2" attributes="0"/>
+                                  <EmptySpace max="-2" attributes="0"/>
+                                  <Component id="input_58" min="-2" pref="65" max="-2" attributes="0"/>
+                                  <EmptySpace max="-2" attributes="0"/>
+                                  <Component id="input_59" min="-2" pref="65" max="-2" attributes="0"/>
+                                  <EmptySpace max="-2" attributes="0"/>
+                                  <Component id="input_60" min="-2" pref="65" max="-2" attributes="0"/>
+                                  <EmptySpace max="32767" attributes="0"/>
+                                  <Component id="input_61" min="-2" pref="65" max="-2" attributes="0"/>
+                                  <EmptySpace max="-2" attributes="0"/>
+                                  <Component id="input_62" min="-2" pref="65" max="-2" attributes="0"/>
+                              </Group>
+                              <Group type="102" alignment="0" attributes="0">
+                                  <Group type="103" groupAlignment="1" attributes="0">
+                                      <Group type="102" attributes="0">
+                                          <Component id="input_47" min="-2" pref="65" max="-2" attributes="0"/>
+                                          <EmptySpace max="-2" attributes="0"/>
+                                          <Component id="input_48" min="-2" pref="65" max="-2" attributes="0"/>
+                                      </Group>
+                                      <Group type="102" attributes="0">
+                                          <Component id="input_38" min="-2" pref="65" max="-2" attributes="0"/>
+                                          <EmptySpace max="-2" attributes="0"/>
+                                          <Component id="input_39" min="-2" pref="65" max="-2" attributes="0"/>
+                                      </Group>
+                                  </Group>
+                                  <EmptySpace max="-2" attributes="0"/>
+                                  <Group type="103" groupAlignment="0" attributes="0">
+                                      <Group type="102" attributes="0">
+                                          <Component id="input_40" min="-2" pref="65" max="-2" attributes="0"/>
+                                          <EmptySpace max="-2" attributes="0"/>
+                                          <Component id="input_41" min="-2" pref="65" max="-2" attributes="0"/>
+                                          <EmptySpace max="-2" attributes="0"/>
+                                          <Component id="input_42" min="-2" pref="65" max="-2" attributes="0"/>
+                                          <EmptySpace max="32767" attributes="0"/>
+                                          <Component id="input_43" min="-2" pref="65" max="-2" attributes="0"/>
+                                          <EmptySpace max="-2" attributes="0"/>
+                                          <Component id="input_44" min="-2" pref="65" max="-2" attributes="0"/>
+                                      </Group>
+                                      <Group type="102" attributes="0">
+                                          <Component id="input_49" min="-2" pref="65" max="-2" attributes="0"/>
+                                          <EmptySpace max="-2" attributes="0"/>
+                                          <Component id="input_50" min="-2" pref="65" max="-2" attributes="0"/>
+                                          <EmptySpace max="-2" attributes="0"/>
+                                          <Component id="input_51" min="-2" pref="65" max="-2" attributes="0"/>
+                                          <EmptySpace max="-2" attributes="0"/>
+                                          <Component id="input_52" min="-2" pref="65" max="-2" attributes="0"/>
+                                          <EmptySpace max="32767" attributes="0"/>
+                                          <Component id="input_53" min="-2" pref="65" max="-2" attributes="0"/>
+                                      </Group>
+                                  </Group>
+                              </Group>
+                          </Group>
+                          <EmptySpace max="-2" attributes="0"/>
+                          <Group type="103" groupAlignment="0" attributes="0">
+                              <Component id="input_18" min="-2" pref="65" max="-2" attributes="0"/>
+                              <Component id="input_9" min="-2" pref="65" max="-2" attributes="0"/>
+                              <Component id="input_27" alignment="0" min="-2" pref="65" max="-2" attributes="0"/>
+                              <Component id="input_36" alignment="0" min="-2" pref="65" max="-2" attributes="0"/>
+                              <Component id="input_45" alignment="0" min="-2" pref="65" max="-2" attributes="0"/>
+                              <Component id="input_54" alignment="0" min="-2" pref="65" max="-2" attributes="0"/>
+                              <Component id="input_63" alignment="0" min="-2" pref="65" max="-2" attributes="0"/>
+                              <Component id="input_72" alignment="0" min="-2" pref="65" max="-2" attributes="0"/>
+                          </Group>
+                      </Group>
+                      <Group type="102" attributes="0">
+                          <Component id="input_74" min="-2" pref="65" max="-2" attributes="0"/>
+                          <EmptySpace max="-2" attributes="0"/>
+                          <Component id="input_75" min="-2" pref="65" max="-2" attributes="0"/>
+                          <EmptySpace max="-2" attributes="0"/>
+                          <Component id="input_76" min="-2" pref="65" max="-2" attributes="0"/>
+                          <EmptySpace max="-2" attributes="0"/>
+                          <Component id="input_77" min="-2" pref="65" max="-2" attributes="0"/>
+                          <EmptySpace max="-2" attributes="0"/>
+                          <Component id="input_78" min="-2" pref="65" max="-2" attributes="0"/>
+                          <EmptySpace max="-2" attributes="0"/>
+                          <Component id="input_79" min="-2" pref="65" max="-2" attributes="0"/>
+                          <EmptySpace max="-2" attributes="0"/>
+                          <Component id="input_80" min="-2" pref="65" max="-2" attributes="0"/>
+                          <EmptySpace max="-2" attributes="0"/>
+                          <Component id="input_81" min="-2" pref="65" max="-2" attributes="0"/>
+                      </Group>
+                  </Group>
+                  <EmptySpace max="32767" attributes="0"/>
+              </Group>
+          </Group>
+        </DimensionLayout>
+        <DimensionLayout dim="1">
+          <Group type="103" groupAlignment="0" attributes="0">
+              <Group type="102" attributes="0">
+                  <EmptySpace max="-2" attributes="0"/>
+                  <Group type="103" groupAlignment="3" attributes="0">
+                      <Component id="input_1" alignment="3" min="-2" pref="65" max="-2" attributes="0"/>
+                      <Component id="input_2" alignment="3" min="-2" pref="65" max="-2" attributes="0"/>
+                      <Component id="input_3" alignment="3" min="-2" pref="65" max="-2" attributes="0"/>
+                      <Component id="input_4" alignment="3" min="-2" pref="65" max="-2" attributes="0"/>
+                      <Component id="input_5" alignment="3" min="-2" pref="65" max="-2" attributes="0"/>
+                      <Component id="input_6" alignment="3" min="-2" pref="65" max="-2" attributes="0"/>
+                      <Component id="input_7" alignment="3" min="-2" pref="65" max="-2" attributes="0"/>
+                      <Component id="input_8" alignment="3" min="-2" pref="65" max="-2" attributes="0"/>
+                      <Component id="input_9" alignment="3" min="-2" pref="65" max="-2" attributes="0"/>
+                  </Group>
+                  <EmptySpace max="-2" attributes="0"/>
+                  <Group type="103" groupAlignment="3" attributes="0">
+                      <Component id="input_18" alignment="3" min="-2" pref="65" max="-2" attributes="0"/>
+                      <Component id="input_10" alignment="3" min="-2" pref="65" max="-2" attributes="0"/>
+                      <Component id="input_11" alignment="3" min="-2" pref="65" max="-2" attributes="0"/>
+                      <Component id="input_12" alignment="3" min="-2" pref="65" max="-2" attributes="0"/>
+                      <Component id="input_13" alignment="3" min="-2" pref="65" max="-2" attributes="0"/>
+                      <Component id="input_14" alignment="3" min="-2" pref="65" max="-2" attributes="0"/>
+                      <Component id="input_15" alignment="3" min="-2" pref="65" max="-2" attributes="0"/>
+                      <Component id="input_16" alignment="3" min="-2" pref="65" max="-2" attributes="0"/>
+                      <Component id="input_17" alignment="3" min="-2" pref="65" max="-2" attributes="0"/>
+                  </Group>
+                  <EmptySpace max="-2" attributes="0"/>
+                  <Group type="103" groupAlignment="3" attributes="0">
+                      <Component id="input_27" alignment="3" min="-2" pref="65" max="-2" attributes="0"/>
+                      <Component id="input_19" alignment="3" min="-2" pref="65" max="-2" attributes="0"/>
+                      <Component id="input_20" alignment="3" min="-2" pref="65" max="-2" attributes="0"/>
+                      <Component id="input_21" alignment="3" min="-2" pref="65" max="-2" attributes="0"/>
+                      <Component id="input_22" alignment="3" min="-2" pref="65" max="-2" attributes="0"/>
+                      <Component id="input_23" alignment="3" min="-2" pref="65" max="-2" attributes="0"/>
+                      <Component id="input_24" alignment="3" min="-2" pref="65" max="-2" attributes="0"/>
+                      <Component id="input_25" alignment="3" min="-2" pref="65" max="-2" attributes="0"/>
+                      <Component id="input_26" alignment="3" min="-2" pref="65" max="-2" attributes="0"/>
+                  </Group>
+                  <EmptySpace max="-2" attributes="0"/>
+                  <Group type="103" groupAlignment="3" attributes="0">
+                      <Component id="input_36" alignment="3" min="-2" pref="65" max="-2" attributes="0"/>
+                      <Component id="input_28" alignment="3" min="-2" pref="65" max="-2" attributes="0"/>
+                      <Component id="input_29" alignment="3" min="-2" pref="65" max="-2" attributes="0"/>
+                      <Component id="input_30" alignment="3" min="-2" pref="65" max="-2" attributes="0"/>
+                      <Component id="input_31" alignment="3" min="-2" pref="65" max="-2" attributes="0"/>
+                      <Component id="input_32" alignment="3" min="-2" pref="65" max="-2" attributes="0"/>
+                      <Component id="input_33" alignment="3" min="-2" pref="65" max="-2" attributes="0"/>
+                      <Component id="input_35" alignment="3" min="-2" pref="65" max="-2" attributes="0"/>
+                      <Component id="input_34" alignment="3" min="-2" pref="65" max="-2" attributes="0"/>
+                  </Group>
+                  <EmptySpace max="-2" attributes="0"/>
+                  <Group type="103" groupAlignment="3" attributes="0">
+                      <Component id="input_45" alignment="3" min="-2" pref="65" max="-2" attributes="0"/>
+                      <Component id="input_37" alignment="3" min="-2" pref="65" max="-2" attributes="0"/>
+                      <Component id="input_38" alignment="3" min="-2" pref="65" max="-2" attributes="0"/>
+                      <Component id="input_39" alignment="3" min="-2" pref="65" max="-2" attributes="0"/>
+                      <Component id="input_40" alignment="3" min="-2" pref="65" max="-2" attributes="0"/>
+                      <Component id="input_41" alignment="3" min="-2" pref="65" max="-2" attributes="0"/>
+                      <Component id="input_44" alignment="3" min="-2" pref="65" max="-2" attributes="0"/>
+                      <Component id="input_42" alignment="3" min="-2" pref="65" max="-2" attributes="0"/>
+                      <Component id="input_43" alignment="3" min="-2" pref="65" max="-2" attributes="0"/>
+                  </Group>
+                  <EmptySpace max="-2" attributes="0"/>
+                  <Group type="103" groupAlignment="3" attributes="0">
+                      <Component id="input_54" alignment="3" min="-2" pref="65" max="-2" attributes="0"/>
+                      <Component id="input_46" alignment="3" min="-2" pref="65" max="-2" attributes="0"/>
+                      <Component id="input_49" alignment="3" min="-2" pref="65" max="-2" attributes="0"/>
+                      <Component id="input_47" alignment="3" min="-2" pref="65" max="-2" attributes="0"/>
+                      <Component id="input_48" alignment="3" min="-2" pref="65" max="-2" attributes="0"/>
+                      <Component id="input_50" alignment="3" min="-2" pref="65" max="-2" attributes="0"/>
+                      <Component id="input_51" alignment="3" min="-2" pref="65" max="-2" attributes="0"/>
+                      <Component id="input_53" alignment="3" min="-2" pref="65" max="-2" attributes="0"/>
+                      <Component id="input_52" alignment="3" min="-2" pref="65" max="-2" attributes="0"/>
+                  </Group>
+                  <EmptySpace max="-2" attributes="0"/>
+                  <Group type="103" groupAlignment="3" attributes="0">
+                      <Component id="input_63" alignment="3" min="-2" pref="65" max="-2" attributes="0"/>
+                      <Component id="input_55" alignment="3" min="-2" pref="65" max="-2" attributes="0"/>
+                      <Component id="input_56" alignment="3" min="-2" pref="65" max="-2" attributes="0"/>
+                      <Component id="input_57" alignment="3" min="-2" pref="65" max="-2" attributes="0"/>
+                      <Component id="input_58" alignment="3" min="-2" pref="65" max="-2" attributes="0"/>
+                      <Component id="input_59" alignment="3" min="-2" pref="65" max="-2" attributes="0"/>
+                      <Component id="input_60" alignment="3" min="-2" pref="65" max="-2" attributes="0"/>
+                      <Component id="input_62" alignment="3" min="-2" pref="65" max="-2" attributes="0"/>
+                      <Component id="input_61" alignment="3" min="-2" pref="65" max="-2" attributes="0"/>
+                  </Group>
+                  <EmptySpace max="-2" attributes="0"/>
+                  <Group type="103" groupAlignment="3" attributes="0">
+                      <Component id="input_72" alignment="3" min="-2" pref="65" max="-2" attributes="0"/>
+                      <Component id="input_64" alignment="3" min="-2" pref="65" max="-2" attributes="0"/>
+                      <Component id="input_65" alignment="3" min="-2" pref="65" max="-2" attributes="0"/>
+                      <Component id="input_66" alignment="3" min="-2" pref="65" max="-2" attributes="0"/>
+                      <Component id="input_67" alignment="3" min="-2" pref="65" max="-2" attributes="0"/>
+                      <Component id="input_68" alignment="3" min="-2" pref="65" max="-2" attributes="0"/>
+                      <Component id="input_71" alignment="3" min="-2" pref="65" max="-2" attributes="0"/>
+                      <Component id="input_70" alignment="3" min="-2" pref="65" max="-2" attributes="0"/>
+                      <Component id="input_69" alignment="3" min="-2" pref="65" max="-2" attributes="0"/>
+                  </Group>
+                  <EmptySpace max="-2" attributes="0"/>
+                  <Group type="103" groupAlignment="3" attributes="0">
+                      <Component id="input_81" alignment="3" min="-2" pref="65" max="-2" attributes="0"/>
+                      <Component id="input_73" alignment="3" min="-2" pref="65" max="-2" attributes="0"/>
+                      <Component id="input_74" alignment="3" min="-2" pref="65" max="-2" attributes="0"/>
+                      <Component id="input_75" alignment="3" min="-2" pref="65" max="-2" attributes="0"/>
+                      <Component id="input_76" alignment="3" min="-2" pref="65" max="-2" attributes="0"/>
+                      <Component id="input_77" alignment="3" min="-2" pref="65" max="-2" attributes="0"/>
+                      <Component id="input_78" alignment="3" min="-2" pref="65" max="-2" attributes="0"/>
+                      <Component id="input_80" alignment="3" min="-2" pref="65" max="-2" attributes="0"/>
+                      <Component id="input_79" alignment="3" min="-2" pref="65" max="-2" attributes="0"/>
+                  </Group>
+                  <EmptySpace max="32767" attributes="0"/>
+              </Group>
+          </Group>
+        </DimensionLayout>
+      </Layout>
+      <SubComponents>
+        <Component class="javax.swing.JTextField" name="input_1">
+        </Component>
+        <Component class="javax.swing.JTextField" name="input_54">
+        </Component>
+        <Component class="javax.swing.JTextField" name="input_2">
+        </Component>
+        <Component class="javax.swing.JTextField" name="input_3">
+        </Component>
+        <Component class="javax.swing.JTextField" name="input_9">
+        </Component>
+        <Component class="javax.swing.JTextField" name="input_36">
+        </Component>
+        <Component class="javax.swing.JTextField" name="input_8">
+        </Component>
+        <Component class="javax.swing.JTextField" name="input_27">
+        </Component>
+        <Component class="javax.swing.JTextField" name="input_45">
+        </Component>
+        <Component class="javax.swing.JTextField" name="input_5">
+        </Component>
+        <Component class="javax.swing.JTextField" name="input_6">
+        </Component>
+        <Component class="javax.swing.JTextField" name="input_4">
+        </Component>
+        <Component class="javax.swing.JTextField" name="input_18">
+        </Component>
+        <Component class="javax.swing.JTextField" name="input_7">
+        </Component>
+        <Component class="javax.swing.JTextField" name="input_10">
+          <Events>
+            <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="input_10ActionPerformed"/>
+          </Events>
+        </Component>
+        <Component class="javax.swing.JTextField" name="input_81">
+        </Component>
+        <Component class="javax.swing.JTextField" name="input_19">
+        </Component>
+        <Component class="javax.swing.JTextField" name="input_11">
+        </Component>
+        <Component class="javax.swing.JTextField" name="input_12">
+        </Component>
+        <Component class="javax.swing.JTextField" name="input_63">
+        </Component>
+        <Component class="javax.swing.JTextField" name="input_20">
+        </Component>
+        <Component class="javax.swing.JTextField" name="input_21">
+        </Component>
+        <Component class="javax.swing.JTextField" name="input_13">
+        </Component>
+        <Component class="javax.swing.JTextField" name="input_22">
+        </Component>
+        <Component class="javax.swing.JTextField" name="input_23">
+        </Component>
+        <Component class="javax.swing.JTextField" name="input_72">
+        </Component>
+        <Component class="javax.swing.JTextField" name="input_14">
+        </Component>
+        <Component class="javax.swing.JTextField" name="input_15">
+        </Component>
+        <Component class="javax.swing.JTextField" name="input_24">
+        </Component>
+        <Component class="javax.swing.JTextField" name="input_16">
+        </Component>
+        <Component class="javax.swing.JTextField" name="input_17">
+        </Component>
+        <Component class="javax.swing.JTextField" name="input_25">
+        </Component>
+        <Component class="javax.swing.JTextField" name="input_26">
+        </Component>
+        <Component class="javax.swing.JTextField" name="input_28">
+        </Component>
+        <Component class="javax.swing.JTextField" name="input_29">
+        </Component>
+        <Component class="javax.swing.JTextField" name="input_30">
+        </Component>
+        <Component class="javax.swing.JTextField" name="input_57">
+        </Component>
+        <Component class="javax.swing.JTextField" name="input_66">
+        </Component>
+        <Component class="javax.swing.JTextField" name="input_38">
+        </Component>
+        <Component class="javax.swing.JTextField" name="input_75">
+        </Component>
+        <Component class="javax.swing.JTextField" name="input_65">
+        </Component>
+        <Component class="javax.swing.JTextField" name="input_56">
+        </Component>
+        <Component class="javax.swing.JTextField" name="input_39">
+        </Component>
+        <Component class="javax.swing.JTextField" name="input_46">
+        </Component>
+        <Component class="javax.swing.JTextField" name="input_74">
+        </Component>
+        <Component class="javax.swing.JTextField" name="input_64">
+        </Component>
+        <Component class="javax.swing.JTextField" name="input_73">
+        </Component>
+        <Component class="javax.swing.JTextField" name="input_37">
+        </Component>
+        <Component class="javax.swing.JTextField" name="input_55">
+        </Component>
+        <Component class="javax.swing.JTextField" name="input_58">
+        </Component>
+        <Component class="javax.swing.JTextField" name="input_31">
+        </Component>
+        <Component class="javax.swing.JTextField" name="input_40">
+        </Component>
+        <Component class="javax.swing.JTextField" name="input_49">
+        </Component>
+        <Component class="javax.swing.JTextField" name="input_47">
+        </Component>
+        <Component class="javax.swing.JTextField" name="input_67">
+        </Component>
+        <Component class="javax.swing.JTextField" name="input_76">
+        </Component>
+        <Component class="javax.swing.JTextField" name="input_32">
+        </Component>
+        <Component class="javax.swing.JTextField" name="input_41">
+        </Component>
+        <Component class="javax.swing.JTextField" name="input_48">
+        </Component>
+        <Component class="javax.swing.JTextField" name="input_50">
+        </Component>
+        <Component class="javax.swing.JTextField" name="input_77">
+        </Component>
+        <Component class="javax.swing.JTextField" name="input_68">
+        </Component>
+        <Component class="javax.swing.JTextField" name="input_59">
+        </Component>
+        <Component class="javax.swing.JTextField" name="input_33">
+        </Component>
+        <Component class="javax.swing.JTextField" name="input_62">
+        </Component>
+        <Component class="javax.swing.JTextField" name="input_71">
+        </Component>
+        <Component class="javax.swing.JTextField" name="input_44">
+        </Component>
+        <Component class="javax.swing.JTextField" name="input_35">
+        </Component>
+        <Component class="javax.swing.JTextField" name="input_53">
+        </Component>
+        <Component class="javax.swing.JTextField" name="input_60">
+        </Component>
+        <Component class="javax.swing.JTextField" name="input_51">
+        </Component>
+        <Component class="javax.swing.JTextField" name="input_78">
+        </Component>
+        <Component class="javax.swing.JTextField" name="input_42">
+        </Component>
+        <Component class="javax.swing.JTextField" name="input_80">
+        </Component>
+        <Component class="javax.swing.JTextField" name="input_34">
+        </Component>
+        <Component class="javax.swing.JTextField" name="input_43">
+        </Component>
+        <Component class="javax.swing.JTextField" name="input_52">
+        </Component>
+        <Component class="javax.swing.JTextField" name="input_61">
+        </Component>
+        <Component class="javax.swing.JTextField" name="input_70">
+        </Component>
+        <Component class="javax.swing.JTextField" name="input_79">
+        </Component>
+        <Component class="javax.swing.JTextField" name="input_69">
+        </Component>
+      </SubComponents>
+    </Container>
+    <Container class="javax.swing.JPanel" name="jPanel2">
+      <Properties>
+        <Property name="background" type="java.awt.Color" editor="org.netbeans.modules.form.RADConnectionPropertyEditor">
+          <Connection code="new java.awt.Color(0, 0, 0,10)" type="code"/>
+        </Property>
+      </Properties>
+      <Constraints>
+        <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout" value="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout$AbsoluteConstraintsDescription">
+          <AbsoluteConstraints x="700" y="100" width="180" height="510"/>
+        </Constraint>
+      </Constraints>
+
+      <Layout>
+        <DimensionLayout dim="0">
+          <Group type="103" groupAlignment="0" attributes="0">
+              <Group type="102" attributes="0">
+                  <Group type="103" groupAlignment="0" attributes="0">
+                      <Component id="jLabel2" alignment="0" min="-2" max="-2" attributes="0"/>
+                      <Group type="102" alignment="0" attributes="0">
+                          <EmptySpace min="-2" pref="39" max="-2" attributes="0"/>
+                          <Group type="103" groupAlignment="0" max="-2" attributes="0">
+                              <Component id="btn_MainMenu" pref="100" max="32767" attributes="0"/>
+                              <Component id="btn_Hint" max="32767" attributes="0"/>
+                              <Component id="jTextField2" alignment="0" max="32767" attributes="0"/>
+                          </Group>
+                      </Group>
+                      <Component id="jLabel3" min="-2" max="-2" attributes="0"/>
+                      <Group type="102" alignment="0" attributes="0">
+                          <EmptySpace min="-2" pref="40" max="-2" attributes="0"/>
+                          <Group type="103" groupAlignment="0" max="-2" attributes="0">
+                              <Component id="jTextField1" max="32767" attributes="0"/>
+                              <Component id="btn_clear" pref="100" max="32767" attributes="0"/>
+                              <Component id="jButton1" alignment="1" max="32767" attributes="0"/>
+                          </Group>
+                      </Group>
+                  </Group>
+                  <EmptySpace min="0" pref="5" max="32767" attributes="0"/>
+              </Group>
+          </Group>
+        </DimensionLayout>
+        <DimensionLayout dim="1">
+          <Group type="103" groupAlignment="0" attributes="0">
+              <Group type="102" alignment="0" attributes="0">
+                  <EmptySpace max="-2" attributes="0"/>
+                  <Component id="jLabel2" min="-2" pref="50" max="-2" attributes="0"/>
+                  <EmptySpace max="-2" attributes="0"/>
+                  <Component id="jTextField1" min="-2" pref="30" max="-2" attributes="0"/>
+                  <EmptySpace pref="40" max="32767" attributes="0"/>
+                  <Component id="jButton1" min="-2" pref="30" max="-2" attributes="0"/>
+                  <EmptySpace min="-2" pref="34" max="-2" attributes="0"/>
+                  <Component id="btn_clear" min="-2" pref="30" max="-2" attributes="0"/>
+                  <EmptySpace min="-2" pref="34" max="-2" attributes="0"/>
+                  <Component id="jLabel3" min="-2" pref="51" max="-2" attributes="0"/>
+                  <EmptySpace max="-2" attributes="0"/>
+                  <Component id="jTextField2" min="-2" pref="30" max="-2" attributes="0"/>
+                  <EmptySpace min="-2" pref="27" max="-2" attributes="0"/>
+                  <Component id="btn_Hint" min="-2" pref="30" max="-2" attributes="0"/>
+                  <EmptySpace min="-2" pref="30" max="-2" attributes="0"/>
+                  <Component id="btn_MainMenu" min="-2" pref="30" max="-2" attributes="0"/>
+                  <EmptySpace min="-2" pref="46" max="-2" attributes="0"/>
+              </Group>
+          </Group>
+        </DimensionLayout>
+      </Layout>
+      <SubComponents>
+        <Component class="javax.swing.JLabel" name="jLabel2">
+        </Component>
+        <Component class="javax.swing.JTextField" name="jTextField1">
+        </Component>
+        <Component class="javax.swing.JButton" name="btn_MainMenu">
+          <Properties>
+            <Property name="text" type="java.lang.String" value="Main Menu"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JButton" name="btn_Hint">
+          <Properties>
+            <Property name="text" type="java.lang.String" value="Hint"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JLabel" name="jLabel3">
+        </Component>
+        <Component class="javax.swing.JTextField" name="jTextField2">
+        </Component>
+        <Component class="javax.swing.JButton" name="btn_clear">
+          <Properties>
+            <Property name="text" type="java.lang.String" value="Clear"/>
+          </Properties>
+          <Events>
+            <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="btn_clearActionPerformed"/>
+          </Events>
+        </Component>
+        <Component class="javax.swing.JButton" name="jButton1">
+          <Properties>
+            <Property name="text" type="java.lang.String" value="Solve"/>
+          </Properties>
+        </Component>
+      </SubComponents>
+    </Container>
+    <Component class="javax.swing.JLabel" name="jLabel1">
+      <Constraints>
+        <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout" value="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout$AbsoluteConstraintsDescription">
+          <AbsoluteConstraints x="0" y="0" width="-1" height="-1"/>
+        </Constraint>
+      </Constraints>
+    </Component>
+    <Component class="javax.swing.JLabel" name="jLabel4">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="jLabel4"/>
+      </Properties>
+      <Constraints>
+        <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout" value="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout$AbsoluteConstraintsDescription">
+          <AbsoluteConstraints x="760" y="80" width="-1" height="-1"/>
+        </Constraint>
+      </Constraints>
+    </Component>
+  </SubComponents>
+</Form>
